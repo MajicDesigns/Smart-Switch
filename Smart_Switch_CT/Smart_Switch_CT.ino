@@ -24,7 +24,7 @@ Good article for the hardware required to interface the CT to the Arduino at
 https://openenergymonitor.org/emon/buildingblocks/ct-sensors-interface
 
 Library dependencies:
-MD_KeySwitch found at https://github.com/MajicDesigns/KeySwitch
+MD_KeySwitch found at https://github.com/MajicDesigns/MD_KeySwitch
 */
 
 #include "Smart_Switch_CT.h"
